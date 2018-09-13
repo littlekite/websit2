@@ -72,7 +72,7 @@ layui.use(['form','layer','layedit','laydate','upload'],function(){
         //弹出loading
         var index = top.layer.msg('数据提交中，请稍候',{icon: 16,time:false,shade:0.8});
         // 实际使用时的提交信息
-         $.post("api.php",{
+         $.post("/api.php",{
              newsName : $(".newsName").val(),  //文章标题
              m:'10',//请求地址
              abstract : $(".abstract").val(),  //文章摘要

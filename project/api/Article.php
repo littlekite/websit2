@@ -12,7 +12,7 @@ class Article{
         $res = [];
         $input = input();
         if (!empty($input['newsName']) && !empty($input['abstract']) && !empty($input['content'])  && !empty($input['classify']) && isset($input['newsStatus']) && !empty($input['newsTime'])) {
-            $res_add =  Db::execute("INSERT INTO `k_article` (`title`, `add_date`, `content`, `author`, `abstract`, `classify`, `newsStatus`) VALUES ('$input[newsName]', '$input[newsTime]', '$input[content]', '$input[classify]', 'admin', '$input[newsStatus]', '$input[newsStatus]')");
+            $res_add =  Db::execute("INSERT INTO `k_article` (`title`, `add_date`, `content`, `author`, `abstract`, `classify`, `newsStatus`) VALUES ('$input[newsName]', '$input[newsTime]', '$input[content]', 'admin', '$input[abstract]', '$input[classify]', '$input[newsStatus]')");
             if ($res_add) {
                 $res['status'] = 1;//失败
                 $res['info'] = "添加成功"; 
