@@ -1,0 +1,2135 @@
+[ 2018-09-04T01:07:09+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.056003s][吞吐率：17.86req/s] [内存消耗：177.68kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T01:07:09+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:07:09+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：213.56kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /css/berrygood.css
+[ log ] www.k.com/css/berrygood.css [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css
+[ log ] www.k.com/css/bootstrap.css [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-2.png
+[ log ] www.k.com/images/cms/recipe-news-sample-2.png [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.theme.default.css
+[ log ] www.k.com/js/vendor/owl.theme.default.css [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/logo-berrygood.png
+[ log ] www.k.com/images/logo-berrygood.png [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.all.css
+[ log ] www.k.com/js/vendor/jquery.mmenu.all.css [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.css
+[ log ] www.k.com/js/vendor/owl.carousel.min.css [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/lib/isMobile.js
+[ log ] www.k.com/js/lib/isMobile.js [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.67kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.min.all.js
+[ log ] www.k.com/js/vendor/jquery.mmenu.min.all.js [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery-1.12.4.min.js
+[ log ] www.k.com/js/vendor/jquery-1.12.4.min.js [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/berrygood.js
+[ log ] www.k.com/js/berrygood.js [运行时间：0.003001s][吞吐率：333.23req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.js
+[ log ] www.k.com/js/vendor/owl.carousel.min.js [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample.png
+[ log ] www.k.com/images/cms/recipe-news-sample.png [运行时间：0.002000s][吞吐率：500.04req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-3.png
+[ log ] www.k.com/images/cms/recipe-news-sample-3.png [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-4.png
+[ log ] www.k.com/images/cms/recipe-news-sample-4.png [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-2.png
+[ log ] www.k.com/images/cms/news-image-sample-2.png [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-4.png
+[ log ] www.k.com/images/cms/news-image-sample-4.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample.png
+[ log ] www.k.com/images/cms/news-image-sample.png [运行时间：0.004000s][吞吐率：249.99req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:53+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-3.png
+[ log ] www.k.com/images/cms/news-image-sample-3.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.022002s][吞吐率：45.45req/s] [内存消耗：213.56kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /css/berrygood.css
+[ log ] www.k.com/css/berrygood.css [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.css
+[ log ] www.k.com/js/vendor/owl.carousel.min.css [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/logo-berrygood.png
+[ log ] www.k.com/images/logo-berrygood.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.all.css
+[ log ] www.k.com/js/vendor/jquery.mmenu.all.css [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/lib/isMobile.js
+[ log ] www.k.com/js/lib/isMobile.js [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css
+[ log ] www.k.com/css/bootstrap.css [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-2.png
+[ log ] www.k.com/images/cms/recipe-news-sample-2.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.theme.default.css
+[ log ] www.k.com/js/vendor/owl.theme.default.css [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery-1.12.4.min.js
+[ log ] www.k.com/js/vendor/jquery-1.12.4.min.js [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.min.all.js
+[ log ] www.k.com/js/vendor/jquery.mmenu.min.all.js [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.js
+[ log ] www.k.com/js/vendor/owl.carousel.min.js [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample.png
+[ log ] www.k.com/images/cms/recipe-news-sample.png [运行时间：0.005001s][吞吐率：199.97req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /js/berrygood.js
+[ log ] www.k.com/js/berrygood.js [运行时间：0.005001s][吞吐率：199.97req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-4.png
+[ log ] www.k.com/images/cms/recipe-news-sample-4.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-3.png
+[ log ] www.k.com/images/cms/recipe-news-sample-3.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-2.png
+[ log ] www.k.com/images/cms/news-image-sample-2.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-4.png
+[ log ] www.k.com/images/cms/news-image-sample-4.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample.png
+[ log ] www.k.com/images/cms/news-image-sample.png [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:54+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-3.png
+[ log ] www.k.com/images/cms/news-image-sample-3.png [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-2.png
+[ log ] www.k.com/images/cms/recipe-news-sample-2.png [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/close-up-strawberry.png
+[ log ] www.k.com/images/cms/close-up-strawberry.png [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /twitter.html
+[ log ] www.k.com/twitter.html [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：118.41kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-3.png
+[ log ] www.k.com/images/cms/recipe-news-sample-3.png [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-2.png
+[ log ] www.k.com/images/cms/news-image-sample-2.png [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample.png
+[ log ] www.k.com/images/cms/recipe-news-sample.png [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/close-up-raspberry.png
+[ log ] www.k.com/images/cms/close-up-raspberry.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/close-up-blueberry.png
+[ log ] www.k.com/images/cms/close-up-blueberry.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/blueberry_flapjacks.jpg
+[ log ] www.k.com/images/cms/blueberry_flapjacks.jpg [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/blueberry-and-banana-muffins.jpg
+[ log ] www.k.com/images/cms/blueberry-and-banana-muffins.jpg [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/blueberry_and_pecan_balls.jpg
+[ log ] www.k.com/images/cms/blueberry_and_pecan_balls.jpg [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.72kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/Harry-Hall.png
+[ log ] www.k.com/images/cms/Harry-Hall.png [运行时间：0.007001s][吞吐率：142.83req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/scandinavian-blueberry-and-soured-cream-tart.jpg
+[ log ] www.k.com/images/cms/scandinavian-blueberry-and-soured-cream-tart.jpg [运行时间：0.011001s][吞吐率：90.90req/s] [内存消耗：115.72kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/Peter-Vinson.png
+[ log ] www.k.com/images/cms/Peter-Vinson.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/Marion-Regan.png
+[ log ] www.k.com/images/cms/Marion-Regan.png [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/homepage-slide-1-desktop.png
+[ log ] www.k.com/images/cms/homepage-slide-1-desktop.png [运行时间：0.004001s][吞吐率：249.94req/s] [内存消耗：115.72kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/homepage-slide-3-desktop.png
+[ log ] www.k.com/images/cms/homepage-slide-3-desktop.png [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：115.72kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:55+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/homepage-slide-2-desktop.png
+[ log ] www.k.com/images/cms/homepage-slide-2-desktop.png [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：115.72kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:57+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css
+[ log ] www.k.com/css/bootstrap.css [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:57+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.css
+[ log ] www.k.com/js/vendor/owl.carousel.min.css [运行时间：0.008001s][吞吐率：124.98req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:57+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.all.css
+[ log ] www.k.com/js/vendor/jquery.mmenu.all.css [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:57+00:00 ] 127.0.0.1 127.0.0.1 GET /css/berrygood.css
+[ log ] www.k.com/css/berrygood.css [运行时间：0.007001s][吞吐率：142.83req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:57:57+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.theme.default.css
+[ log ] www.k.com/js/vendor/owl.theme.default.css [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：213.55kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css
+[ log ] www.k.com/css/bootstrap.css [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /css/berrygood.css
+[ log ] www.k.com/css/berrygood.css [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.css
+[ log ] www.k.com/js/vendor/owl.carousel.min.css [运行时间：0.007000s][吞吐率：142.85req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.theme.default.css
+[ log ] www.k.com/js/vendor/owl.theme.default.css [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.all.css
+[ log ] www.k.com/js/vendor/jquery.mmenu.all.css [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/lib/isMobile.js
+[ log ] www.k.com/js/lib/isMobile.js [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/logo-berrygood.png
+[ log ] www.k.com/images/logo-berrygood.png [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-2.png
+[ log ] www.k.com/images/cms/recipe-news-sample-2.png [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery-1.12.4.min.js
+[ log ] www.k.com/js/vendor/jquery-1.12.4.min.js [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/jquery.mmenu.min.all.js
+[ log ] www.k.com/js/vendor/jquery.mmenu.min.all.js [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendor/owl.carousel.min.js
+[ log ] www.k.com/js/vendor/owl.carousel.min.js [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /js/berrygood.js
+[ log ] www.k.com/js/berrygood.js [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample.png
+[ log ] www.k.com/images/cms/recipe-news-sample.png [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-3.png
+[ log ] www.k.com/images/cms/recipe-news-sample-3.png [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-4.png
+[ log ] www.k.com/images/cms/news-image-sample-4.png [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-4.png
+[ log ] www.k.com/images/cms/recipe-news-sample-4.png [运行时间：0.011000s][吞吐率：90.91req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-2.png
+[ log ] www.k.com/images/cms/news-image-sample-2.png [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample.png
+[ log ] www.k.com/images/cms/news-image-sample.png [运行时间：0.007000s][吞吐率：142.85req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-3.png
+[ log ] www.k.com/images/cms/news-image-sample-3.png [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample-2.png
+[ log ] www.k.com/images/cms/news-image-sample-2.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/news-image-sample.png
+[ log ] www.k.com/images/cms/news-image-sample.png [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-2.png
+[ log ] www.k.com/images/cms/recipe-news-sample-2.png [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample.png
+[ log ] www.k.com/images/cms/recipe-news-sample.png [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/recipe-news-sample-3.png
+[ log ] www.k.com/images/cms/recipe-news-sample-3.png [运行时间：0.012000s][吞吐率：83.33req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/close-up-strawberry.png
+[ log ] www.k.com/images/cms/close-up-strawberry.png [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/close-up-raspberry.png
+[ log ] www.k.com/images/cms/close-up-raspberry.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/homepage-slide-3-desktop.png
+[ log ] www.k.com/images/cms/homepage-slide-3-desktop.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/blueberry_flapjacks.jpg
+[ log ] www.k.com/images/cms/blueberry_flapjacks.jpg [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/scandinavian-blueberry-and-soured-cream-tart.jpg
+[ log ] www.k.com/images/cms/scandinavian-blueberry-and-soured-cream-tart.jpg [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：115.72kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/blueberry-and-banana-muffins.jpg
+[ log ] www.k.com/images/cms/blueberry-and-banana-muffins.jpg [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/homepage-slide-2-desktop.png
+[ log ] www.k.com/images/cms/homepage-slide-2-desktop.png [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/close-up-blueberry.png
+[ log ] www.k.com/images/cms/close-up-blueberry.png [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/homepage-slide-1-desktop.png
+[ log ] www.k.com/images/cms/homepage-slide-1-desktop.png [运行时间：0.003001s][吞吐率：333.23req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/blueberry_and_pecan_balls.jpg
+[ log ] www.k.com/images/cms/blueberry_and_pecan_balls.jpg [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.71kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/Harry-Hall.png
+[ log ] www.k.com/images/cms/Harry-Hall.png [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/Marion-Regan.png
+[ log ] www.k.com/images/cms/Marion-Regan.png [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:05+00:00 ] 127.0.0.1 127.0.0.1 GET /images/cms/Peter-Vinson.png
+[ log ] www.k.com/images/cms/Peter-Vinson.png [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:06+00:00 ] 127.0.0.1 127.0.0.1 GET /images/favicon.ico
+[ log ] www.k.com/images/favicon.ico [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:06+00:00 ] 127.0.0.1 127.0.0.1 GET /images/favicon.ico
+[ log ] www.k.com/images/favicon.ico [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.70kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:06+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T01:58:06+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:21+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：213.55kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:21+00:00 ] 127.0.0.1 127.0.0.1 GET /twitter.html
+[ log ] www.k.com/twitter.html [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：118.55kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:21+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css.map
+[ log ] www.k.com/css/bootstrap.css.map [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:22+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:22+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.004000s][吞吐率：249.99req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:39+00:00 ] 127.0.0.1 127.0.0.1 GET /contact.html
+[ log ] www.k.com/contact.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：118.55kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:41+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：213.55kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:42+00:00 ] 127.0.0.1 127.0.0.1 GET /twitter.html
+[ log ] www.k.com/twitter.html [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：118.55kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:00:42+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css.map
+[ log ] www.k.com/css/bootstrap.css.map [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:04+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：213.29kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:06+00:00 ] 127.0.0.1 127.0.0.1 GET /twitter.html
+[ log ] www.k.com/twitter.html [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：118.55kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:06+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css.map
+[ log ] www.k.com/css/bootstrap.css.map [运行时间：0.004000s][吞吐率：249.99req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:13+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：213.30kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:14+00:00 ] 127.0.0.1 127.0.0.1 GET /twitter.html
+[ log ] www.k.com/twitter.html [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：118.55kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:14+00:00 ] 127.0.0.1 127.0.0.1 GET /css/bootstrap.css.map
+[ log ] www.k.com/css/bootstrap.css.map [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.68kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:28+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：213.30kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-04T02:02:28+00:00 ] 127.0.0.1 127.0.0.1 GET /twitter.html
+[ log ] www.k.com/twitter.html [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：118.41kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------

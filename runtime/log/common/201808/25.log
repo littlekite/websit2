@@ -1,0 +1,63 @@
+[ 2018-08-25T01:02:44+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.058003s][吞吐率：17.24req/s] [内存消耗：177.71kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\y2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-08-25T01:02:44+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-08-25T01:02:44+00:00 ] 127.0.0.1 127.0.0.1 GET /x/favicon.ico
+[ log ] www.k.com/x/favicon.ico [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.69kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\y2\\index.php',
+  1 => 'D:\\wamp\\www\\y2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\y2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\y2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\y2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\y2\\Config.php',
+  6 => 'D:\\wamp\\www\\y2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\y2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\y2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\y2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
