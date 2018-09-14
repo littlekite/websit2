@@ -1,135 +1,121 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>layui后台管理模板 2.0</title>
-	<meta name="renderer" content="webkit">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta http-equiv="Access-Control-Allow-Origin" content="*">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="format-detection" content="telephone=no">
-	<link rel="icon" href="favicon.ico">
-	<link rel="stylesheet" href="<?php echo $view_url; ?>layui/css/layui.css" media="all" />
-	<link rel="stylesheet" href="<?php echo $view_url; ?>css/index.css" media="all" />
+    <title>Group Kit</title>
+    <meta charset="utf-8">
+<meta name="keywords" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/groupkit.css">
+    <link rel="stylesheet" type="text/css" href="js/vendors/slick/slick.css"/>
 </head>
-<body class="main_body">
-	<div class="layui-layout layui-layout-admin">
-		<!-- 顶部 -->
-		<div class="layui-header header">
-			<div class="layui-main mag0">
-				<a href="#" class="logo">layuiCMS 2.0</a>
-				<!-- 显示/隐藏菜单 -->
-				<a href="javascript:;" class="seraph hideMenu icon-caidan"></a>
-				<!-- 顶级菜单 -->
-				<ul class="layui-nav mobileTopLevelMenus" mobile>
-					<li class="layui-nav-item" data-menu="contentManagement">
-						<a href="javascript:;"><i class="seraph icon-caidan"></i><cite>layuiCMS</cite></a>
-						<dl class="layui-nav-child">
-							<dd class="layui-this" data-menu="contentManagement"><a href="javascript:;"><i class="layui-icon" data-icon="&#xe63c;">&#xe63c;</i><cite>内容管理</cite></a></dd>
-							<dd data-menu="memberCenter"><a href="javascript:;"><i class="seraph icon-icon10" data-icon="icon-icon10"></i><cite>用户中心</cite></a></dd>
-							<dd data-menu="systemeSttings"><a href="javascript:;"><i class="layui-icon" data-icon="&#xe620;">&#xe620;</i><cite>系统设置</cite></a></dd>
-							<dd data-menu="seraphApi"><a href="javascript:;"><i class="layui-icon" data-icon="&#xe705;">&#xe705;</i><cite>使用文档</cite></a></dd>
-						</dl>
-					</li>
-				</ul>
-				<ul class="layui-nav topLevelMenus" pc>
-					<li class="layui-nav-item layui-this" data-menu="contentManagement">
-						<a href="javascript:;"><i class="layui-icon" data-icon="&#xe63c;">&#xe63c;</i><cite>内容管理</cite></a>
-					</li>
-					<li class="layui-nav-item" data-menu="memberCenter" pc>
-						<a href="javascript:;"><i class="seraph icon-icon10" data-icon="icon-icon10"></i><cite>用户中心</cite></a>
-					</li>
-					<li class="layui-nav-item" data-menu="systemeSttings" pc>
-						<a href="javascript:;"><i class="layui-icon" data-icon="&#xe620;">&#xe620;</i><cite>系统设置</cite></a>
-					</li>
-					<li class="layui-nav-item" data-menu="seraphApi" pc>
-						<a href="javascript:;"><i class="layui-icon" data-icon="&#xe705;">&#xe705;</i><cite>使用文档</cite></a>
-					</li>
-				</ul>
-			    <!-- 顶部右侧菜单 -->
-			    <ul class="layui-nav top_menu">
-					<li class="layui-nav-item" pc>
-						<a href="javascript:;" class="clearCache"><i class="layui-icon" data-icon="&#xe640;">&#xe640;</i><cite>清除缓存</cite><span class="layui-badge-dot"></span></a>
-					</li>
-					<li class="layui-nav-item lockcms" pc>
-						<a href="javascript:;"><i class="seraph icon-lock"></i><cite>锁屏</cite></a>
-					</li>
-					<li class="layui-nav-item" id="userInfo">
-						<a href="javascript:;"><img src="<?php echo $view_url; ?>images/face.jpg" class="layui-nav-img userAvatar" width="35" height="35"><cite class="adminName">驊驊龔頾</cite></a>
-						<dl class="layui-nav-child">
-							<dd><a href="javascript:;" data-url="<?php echo $view_url; ?>page/user/userInfo.html"><i class="seraph icon-ziliao" data-icon="icon-ziliao"></i><cite>个人资料</cite></a></dd>
-							<dd><a href="javascript:;" data-url="<?php echo $view_url; ?>page/user/changePwd.html"><i class="seraph icon-xiugai" data-icon="icon-xiugai"></i><cite>修改密码</cite></a></dd>
-							<dd><a href="javascript:;" class="showNotice"><i class="layui-icon">&#xe645;</i><cite>系统公告</cite><span class="layui-badge-dot"></span></a></dd>
-							<dd pc><a href="javascript:;" class="functionSetting"><i class="layui-icon">&#xe620;</i><cite>功能设定</cite><span class="layui-badge-dot"></span></a></dd>
-							<dd pc><a href="javascript:;" class="changeSkin"><i class="layui-icon">&#xe61b;</i><cite>更换皮肤</cite></a></dd>
-							<dd><a href="<?php echo $view_url; ?>page/login/login.html" class="signOut"><i class="seraph icon-tuichu"></i><cite>退出</cite></a></dd>
-						</dl>
-					</li>
-				</ul>
-			</div>
-		</div>
-		<!-- 左侧导航 -->
-		<div class="layui-side layui-bg-black">
-			<div class="user-photo">
-				<a class="img" title="我的头像" ><img src="<?php echo $view_url; ?>images/face.jpg" class="userAvatar"></a>
-				<p>你好！<span class="userName">驊驊龔頾</span>, 欢迎登录</p>
-			</div>
-			<!-- 搜索 -->
-			<div class="layui-form component">
-				<select name="search" id="search" lay-search lay-filter="searchPage">
-					<option value="">搜索页面或功能</option>
-					<option value="1">layer</option>
-					<option value="2">form</option>
-				</select>
-				<i class="layui-icon">&#xe615;</i>
-			</div>
-			<div class="navBar layui-side-scroll" id="navBar">
-				<ul class="layui-nav layui-nav-tree">
-					<li class="layui-nav-item layui-this">
-						<a href="javascript:;" data-url="<?php echo $view_url; ?>page/main.html"><i class="layui-icon" data-icon=""></i><cite>后台首页</cite></a>
-					</li>
-				</ul>
-			</div>
-		</div>
-		<!-- 右侧内容 -->
-		<div class="layui-body layui-form">
-			<div class="layui-tab mag0" lay-filter="bodyTab" id="top_tabs_box">
-				<ul class="layui-tab-title top_tab" id="top_tabs">
-					<li class="layui-this" lay-id=""><i class="layui-icon">&#xe68e;</i> <cite>后台首页</cite></li>
-				</ul>
-				<ul class="layui-nav closeBox">
-				  <li class="layui-nav-item">
-				    <a href="javascript:;"><i class="layui-icon caozuo">&#xe643;</i> 页面操作</a>
-				    <dl class="layui-nav-child">
-					  <dd><a href="javascript:;" class="refresh refreshThis"><i class="layui-icon">&#x1002;</i> 刷新当前</a></dd>
-				      <dd><a href="javascript:;" class="closePageOther"><i class="seraph icon-prohibit"></i> 关闭其他</a></dd>
-				      <dd><a href="javascript:;" class="closePageAll"><i class="seraph icon-guanbi"></i> 关闭全部</a></dd>
-				    </dl>
-				  </li>
-				</ul>
-				<div class="layui-tab-content clildFrame">
-					<div class="layui-tab-item layui-show">
-						<iframe src="<?php echo $view_url; ?>page/main.html"></iframe>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- 底部 -->
-		<div class="layui-footer footer">
-			<p><span>copyright @2018 驊驊龔頾</span>　　<a onclick="donation()" class="layui-btn layui-btn-danger layui-btn-sm">捐赠作者</a></p>
-		</div>
-	</div>
+<body class="home">
+    <div class="status-bar">
+    <div class="content">
+        <div class="order">
+            <span class="title">ORDER</span>
+                <span class="percentage">
+                    <span class="bar" style="width: 70%"></span>
+                </span>
+            <span>70%</span>
+        </div>
+        <ul class="auxiliary-navigation">
+            <li class="first-li"><a href="#"><i class="fa fa-fw"></i><span>HELP</span></a></li>
+            <li><a href="template-double.php"><i class="fa fa-fw"></i><span>CONTACT</span></a></li>
+            <li class="last-li"><a href="#"><i class="fa fa-fw"></i><span>RINGLEADER LOGIN</span></a></li>
+        </ul>
+        <div class="cboth"></div>
+    </div>
+</div>
+<div class="header">
+    <h1><a href="#">Group Kit</a></h1>
+</div>
+    <div class="main">
+        <div class="content">
 
-	<!-- 移动导航 -->
-	<div class="site-tree-mobile"><i class="layui-icon">&#xe602;</i></div>
-	<div class="site-mobile-shade"></div>
-    
-    <input id="view_url" value="<?php echo $view_url; ?>" type="hidden" />
+            <div class="carousel">
+                <div class="stage">
+                    <div class="slide slide-1" data-garment-price="11.99" data-garment-title="Hoody" data-garment-guid="garm0112hoody">
+                        <img src="uploaded/carousel-garment-1-small.png" class="small" />
+                        <img src="uploaded/carousel-garment-1-large.png" class="large" />
+                    </div>
+                    <div class="slide slide-2" data-garment-price="6.99" data-garment-title="Tank Top" data-garment-guid="garm0112tanktop">
+                        <img src="uploaded/carousel-garment-2-small.png" class="small" />
+                        <img src="uploaded/carousel-garment-2-large.png" class="large" />
+                    </div>
+                    <div class="slide slide-3" data-garment-price="5.99" data-garment-title="HandMe Down" data-garment-guid="garm01120handMeDown">
+                        <img src="uploaded/carousel-garment-3-small.png" class="small" />
+                        <img src="uploaded/carousel-garment-3-large.png" class="large" />
+                    </div>
+                    <div class="slide slide-4" data-garment-price="9.99" data-garment-title="Sweat Top" data-garment-guid="garm01120sweatTop">
+                        <img src="uploaded/carousel-garment-4-small.png" class="small" />
+                        <img src="uploaded/carousel-garment-4-large.png" class="large" />
+                    </div>
+                    <div class="slide slide-5" data-garment-price="10.99" data-garment-title="V-Neck Stretch" data-garment-guid="garm01120StretchyBaby">
+                        <img src="uploaded/carousel-garment-5-small.png" class="small" />
+                        <img src="uploaded/carousel-garment-5-large.png" class="large" />
+                    </div>
+                </div>
+                <a href="#" id="price-tag" style="opacity: 0">
+                    <span class="hand"><i class="fa fa-fw"></i></span>
+                    <span class="title" data-role="title"></span>
+                    <span class="price" data-role="price"></span>
+                    <span class="click">Click to start<br> ordering</span>
+                    <span class="click-short">Click here</span>
+                </a>
+            </div>
+            <p class="introduction">Ringleaders choose your garment above</p>
 
-	<script type="text/javascript" src="<?php echo $view_url; ?>layui/layui.js"></script>
-	<script type="text/javascript" src="<?php echo $view_url; ?>js/index.js"></script>
-	<script type="text/javascript" src="<?php echo $view_url; ?>js/cache.js"></script>
+            <ul class="entry-points">
+                <li class="first-li">
+                    <a href="members-sign-in.php">
+                        <span class="icon"><i class="fa fa-fw"></i></span>
+                        <span class="title">Team Members</span>
+                        <span class="intro">Click icon above to complete an order that was arranged for you by your Ringleader.</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="ringleaders-sign-in.php">
+                        <span class="icon"><i class="fa fa-fw"></i></span>
+                        <span class="title">Ringleaders</span>
+                        <span class="intro">Click icon above to login to your account to create and amend your orders.</span>
+                    </a>
+                </li>
+                <li class="last-li">
+                    <a href="template-double.php">
+                        <span class="icon"><i class="fa fa-fw"></i></span>
+                        <span class="title">Everybody</span>
+                        <span class="intro">Click icon above for help, contact details or our FAQ section.</span>
+                    </a>
+                </li>
+                <div class="cleft"></div>
+            </ul>
+
+        </div>
+    </div>
+    <div class="footer">
+    <div class="content">
+        <div class="copy">
+            <p>At GroupKit we want to do a good job with an easy to use service which makes you happy. Ordering personalised garments is often too complicated, so if you're looking for a much easier way to get group teamwear that's individually personalised to each team member with a straightforward ordering process and a quick and simple payment system then look no further.</p>
+        </div>
+        <ul class="auxiliary-navigation">
+            <li class="first-li"><a href="template-simple.php"><i class="fa fa-fw"></i>FAQ &amp; HELP</a></li>
+            <li><a href="template-simple.php"><i class="fa fa-fw"></i>Ts &amp; Cs</a></li>
+            <li><a href="template-simple.php"><i class="fa fa-fw"></i>PRIVACY</a></li>
+            <li class="last-li"><a href="template-double.php"><i class="fa fa-fw"></i>SITEMAP</a></li>
+        </ul>
+        <ul class="company-details">
+            <li class="first-li">&copy; 2014 GroupKit</li>
+            <li>Enquiries: <a href="tel:+03333403474" class="telephone"><span>03333</span>&nbsp;<span>403</span>&nbsp;<span>474</span></a></li>
+            <li class="last-li"><a href="mailto:info@groupkit.co.uk">info@groupkit.co.uk</a></li>
+        </ul>
+        <div class="cboth"></div>
+    </div>
+</div>
+<script src="js/vendors/jquery-1.9.1.min.js"></script>
+<script src="js/groupkit.js"></script>
+    <script src="js/vendors/slick/slick.js"></script>
 </body>
 </html>

@@ -1,0 +1,1958 @@
+[ 2018-09-14T06:24:36+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.349020s][吞吐率：2.87req/s] [内存消耗：180.01kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T06:57:05+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：187.66kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T06:57:09+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：187.65kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T06:57:11+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：187.65kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:11:34+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：187.65kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:26+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：179.99kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：183.95kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendors/slick/slick.css
+[ log ] www.k.com/js/vendors/slick/slick.css [运行时间：0.003001s][吞吐率：333.23req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-1-small.png
+[ log ] www.k.com/uploaded/carousel-garment-1-small.png [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /js/vendors/slick/slick.js
+[ log ] www.k.com/js/vendors/slick/slick.js [运行时间：0.003001s][吞吐率：333.23req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-1-large.png
+[ log ] www.k.com/uploaded/carousel-garment-1-large.png [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-2-small.png
+[ log ] www.k.com/uploaded/carousel-garment-2-small.png [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-3-small.png
+[ log ] www.k.com/uploaded/carousel-garment-3-small.png [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-2-large.png
+[ log ] www.k.com/uploaded/carousel-garment-2-large.png [运行时间：0.002000s][吞吐率：499.98req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-4-small.png
+[ log ] www.k.com/uploaded/carousel-garment-4-small.png [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-3-large.png
+[ log ] www.k.com/uploaded/carousel-garment-3-large.png [运行时间：0.004000s][吞吐率：249.99req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-4-large.png
+[ log ] www.k.com/uploaded/carousel-garment-4-large.png [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-5-small.png
+[ log ] www.k.com/uploaded/carousel-garment-5-small.png [运行时间：0.004001s][吞吐率：249.94req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:22:56+00:00 ] 127.0.0.1 127.0.0.1 GET /uploaded/carousel-garment-5-large.png
+[ log ] www.k.com/uploaded/carousel-garment-5-large.png [运行时间：0.011000s][吞吐率：90.91req/s] [内存消耗：115.86kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:24:12+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.011000s][吞吐率：90.91req/s] [内存消耗：183.95kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:25:40+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：184.23kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:25:49+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.013001s][吞吐率：76.92req/s] [内存消耗：184.23kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:27:14+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：184.58kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:34:08+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：185.44kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:35:11+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.023002s][吞吐率：43.47req/s] [内存消耗：186.84kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:35:18+00:00 ] 127.0.0.1 127.0.0.1 GET /template-double.php
+[ log ] www.k.com/template-double.php [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:35:19+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：186.84kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:35:21+00:00 ] 127.0.0.1 127.0.0.1 GET /ringleaders-sign-in.php
+[ log ] www.k.com/ringleaders-sign-in.php [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:35:22+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：186.84kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:36:19+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：186.79kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:39:56+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:39:57+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:39:57+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:39:59+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:40:00+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.008001s][吞吐率：124.98req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:40:00+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:42:48+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:42:48+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:42:48+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:44:39+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:44:39+00:00 ] 127.0.0.1 127.0.0.1 GET /css/fonts/signika-regular.woff2
+[ log ] www.k.com/css/fonts/signika-regular.woff2 [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:44:39+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.004000s][吞吐率：249.99req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:44:39+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:44:39+00:00 ] 127.0.0.1 127.0.0.1 GET /css/fonts/signika-regular.woff
+[ log ] www.k.com/css/fonts/signika-regular.woff [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:44:39+00:00 ] 127.0.0.1 127.0.0.1 GET /css/fonts/signika-regular.ttf
+[ log ] www.k.com/css/fonts/signika-regular.ttf [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:45:09+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:45:09+00:00 ] 127.0.0.1 127.0.0.1 GET /css/fonts/signika-regular.woff2
+[ log ] www.k.com/css/fonts/signika-regular.woff2 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.87kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:45:09+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:45:09+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.004001s][吞吐率：249.94req/s] [内存消耗：115.89kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:45:09+00:00 ] 127.0.0.1 127.0.0.1 GET /css/fonts/signika-regular.woff
+[ log ] www.k.com/css/fonts/signika-regular.woff [运行时间：0.004001s][吞吐率：249.94req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:45:09+00:00 ] 127.0.0.1 127.0.0.1 GET /css/fonts/signika-regular.ttf
+[ log ] www.k.com/css/fonts/signika-regular.ttf [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:46:12+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:46:12+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:46:12+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:48:29+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：186.78kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:16+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:16+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:16+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:28+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:28+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:28+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.004001s][吞吐率：249.93req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:42+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:42+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:49:42+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:55:21+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:55:21+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.woff?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.woff?v=4.2.0 [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:55:21+00:00 ] 127.0.0.1 127.0.0.1 GET /fonts/fontawesome-webfont.ttf?v=4.2.0
+[ log ] www.k.com/fonts/fontawesome-webfont.ttf?v=4.2.0 [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：115.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-14T08:56:55+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:57:16+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:58:03+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：186.77kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:58:07+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:22+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:24+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:25+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:27+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:28+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.016000s][吞吐率：62.50req/s] [内存消耗：186.73kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:38+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:55+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:57+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:58+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.012000s][吞吐率：83.33req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:58+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T08:59:58+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：186.74kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-14T09:01:22+00:00 ] 127.0.0.1 127.0.0.1 GET /ringleaders-choose-garment.php?garmentId=garm0112tanktop
+[ log ] www.k.com/ringleaders-choose-garment.php?garmentId=garm0112tanktop [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.90kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
