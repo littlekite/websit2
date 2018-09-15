@@ -8,10 +8,10 @@ class index{
         $temp = new Template();
         //读取数据库
         
-        $res = Db::query("SELECT * FROM k_article");
+        //$res = Db::query("SELECT * FROM k_article");
         
         
-        $temp->assign('list',$res);
+       //$temp->assign('list',$res);
         
         $temp->display('index');   
     }	   

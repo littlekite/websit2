@@ -19,7 +19,7 @@
         resize : function(){
             // null
         },
-
+  
         init: function(){
             var self = groupkit;
 
@@ -265,7 +265,7 @@
                     slidesToShow: 3,
                     slidesToScroll: 1,
                     autoplay: true,
-                    autoplaySpeed: 7000,
+                    autoplaySpeed: 70000,
                     arrows: true,
                     dots: true,
                     responsive: [
