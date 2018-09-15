@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Group Kit</title>
+    <title>小风筝_个性自定义</title>
     <meta charset="utf-8">
 <meta name="keywords" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -15,17 +15,17 @@
     <div class="status-bar">
     <div class="content">
         <div class="order">
-            <span class="title">ORDER</span>
+            <span class="title">BateVersion-0.1</span>
                 <span class="percentage">
-                    <span class="bar" style="width: 70%"></span>
+                    <span class="bar" style="width: 20%"></span>
                 </span>
-            <span>70%</span>
+            <span>20%</span>
         </div>
         <div class="cboth"></div>
     </div>
 </div>
 <div class="header">
-    <h1><a href="#">Group Kit</a></h1>
+    <h1><a href="#">小风筝</a></h1>
 </div>
     <div class="main">
         <div class="content">
