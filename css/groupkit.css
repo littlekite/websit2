@@ -163,13 +163,13 @@ img {
 }
 .main .carousel {
   width: 1060px;
-  margin: 0 auto;
+  margin: 50px auto;
   position: relative;
 }
 .main .carousel .chevron {
   position: absolute;
   top: 50%;
-  margin-top: -50px;
+  margin-top: -150px;
   width: 40px;
   height: 40px;
   -webkit-border-radius: 50%;
@@ -215,7 +215,7 @@ img {
   top: 55%;
   width: 136px;
   height: 136px;
-  margin-left: -68px;
+  margin-left: -55px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -300,6 +300,7 @@ img {
 }
 .main .carousel .slide {
   position: relative;
+  height: 560px;
 }
 .main .carousel .slide img {
   width: 100%;

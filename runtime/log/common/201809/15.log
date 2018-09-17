@@ -1438,3 +1438,51 @@ array (
 )
 
 ---------------------------------------------------------------
+[ 2018-09-15T08:19:35+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.008001s][吞吐率：124.98req/s] [内存消耗：122.38kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-15T08:58:34+00:00 ] 127.0.0.1 127.0.0.1 GET /template-double.php
+[ log ] www.k.com/template-double.php [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.85kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-15T08:58:47+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：122.39kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
