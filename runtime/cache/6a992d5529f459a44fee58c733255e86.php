@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 <head>
-    <title>个性签名_QQ微信签名设计_男生女生签名大全_小风筝</title>
+    <title>个性网名_好听的QQ微信网名_男生女生网名大全_小风筝</title>
     <meta charset="utf-8">
-<meta name="keywords" content="签名，微信签名，QQ签名，伤感的情侣签名，励志的签名，男生女生签名大全" />
-<meta name="description" content="签名频道收集了当下全网最新、最个性的签名，这里有各种风格的签名，最伤感的情侣签名、有趣的男生签名、文艺的女生签名，更能根据自己的喜好制作独一无二，个性出众的专属签名。" />
+<meta name="keywords" content="网名，微信网名，QQ网名，好听的网名，霸气的网名，伤感的网名，男生女生网名大全" />
+<meta name="description" content="网名频道收集了当下全网最新、最好听的网名，这里有各种风格的网名，好听的情侣网名、霸气的男生网名、经典的QQ网名，更能根据自己的喜好制作独一无二，个性出众的专属网名。" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -33,7 +33,7 @@
             <ul class="entry-points">
                 <li class="first-li">
                     <a href="/wangming/">
-                        <span class="icon"><i class="fa fa-fw">&#xf031;</i></span>
+                        <span class="icon"><i class="fa fa-fw" style="color: #ED227B;">&#xf031;</i></span>
                         <span class="title">网名</span>
                     </a>
                 </li>
@@ -45,7 +45,7 @@
                 </li>
                 <li class="last-li">
                     <a href="/qianming/">
-                        <span class="icon"><i class="fa fa-fw" style="color: #78A93E;">&#xf040;</i></span>
+                        <span class="icon"><i class="fa fa-fw">&#xf040;</i></span>
                         <span class="title">签名</span>
                     </a>
                 </li>
@@ -84,10 +84,10 @@
             </ul>
         </div>
         <div style="width: 1080px;margin-left: auto;margin-right: auto;height: 600px;background: #fff;" >
-            <?php foreach($sign as $k=>$r): ?>
-                <div style="font-size:18px ;font-weight: bold;text-align: left;margin-bottom: 25px;">
-                <?php echo $r['sign']; ?>
-                </div>
+            <?php foreach($netname as $k=>$r): ?>
+            <div style="height: 45px; width: 20%;font-size:18px ;font-weight: bold;text-align: center;float: left;margin-bottom: 25px;">
+            <?php echo $r['name']; ?>
+            </div>
             <?php endforeach; ?>
         </div>
     </div>
