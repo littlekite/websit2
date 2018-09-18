@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 <head>
-    <title>个性签名_QQ微信签名设计_男生女生签名大全_小风筝</title>
+    <title>个性头像_好看的QQ微信头像_男生女生头像大全_小风筝</title>
     <meta charset="utf-8">
-<meta name="keywords" content="签名，微信签名，QQ签名，伤感的情侣签名，励志的签名，男生女生签名大全" />
-<meta name="description" content="签名频道收集了当下全网最新、最个性的签名，这里有各种风格的签名，最伤感的情侣签名、有趣的男生签名、文艺的女生签名，更能根据自己的喜好制作独一无二，个性出众的专属签名。" />
+<meta name="keywords" content="头像，微信头像，QQ头像，好看的情侣头像，可爱的动漫头像，男生女生头像大全" />
+<meta name="description" content="头像频道收集了当下全网最新、最好看的头像，这里有各种风格的头像，好看的情侣头像、可爱的动漫头像、经典的QQ头像，更能根据自己的喜好制作独一无二，个性出众的专属头像。" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -84,10 +84,10 @@
             </ul>
         </div>
         <div style="width: 1080px;margin-left: auto;margin-right: auto;height: 600px;background: #fff;" >
-            <?php foreach($sign as $k=>$r): ?>
-                <div style="font-size:18px ;font-weight: bold;text-align: left;margin-bottom: 25px;">
-                <?php echo $r['sign']; ?>
-                </div>
+            <?php foreach($headpic as $k=>$r): ?>
+            <div style="width: 25%;text-align: center;float: left;margin-bottom: 25px;">
+            <img src="<?php echo $r['headpic']; ?>" style="width: 140px;height: 140px;margin-left: auto;margin-right: auto;" />
+            </div>
             <?php endforeach; ?>
         </div>
     </div>
