@@ -15,7 +15,7 @@ class Kite{
             }
             if (count($route) == 2 && empty($route[1])) { //默认home模块
                 $controller = 'project\\'.$route[0].'\\index';
-                $action = 'index'; 
+                $action = 'index';
             } elseif (count($route) == 2 && !empty($route[1])) { //默认home模块
                 $controller = 'project\\'.$route[0].'\\'.$route[1];
                 $action = $route[1]; 

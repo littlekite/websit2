@@ -1,0 +1,3844 @@
+[ 2018-09-18T01:14:37+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.409024s][吞吐率：2.44req/s] [内存消耗：195.37kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:17:24+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：195.10kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:17:36+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：195.10kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:18:02+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：195.12kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:18:03+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming.php
+[ log ] www.k.com/wangming.php [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:18:15+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming.php
+[ log ] www.k.com/wangming.php [运行时间：0.012000s][吞吐率：83.33req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:18:17+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：195.11kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:18:18+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:22:48+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:22:49+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.003001s][吞吐率：333.23req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:22:49+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.003001s][吞吐率：333.23req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:23:13+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：195.09kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:26:47+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：116.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:27:10+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：116.45kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:27:31+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：116.48kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:29:37+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.012000s][吞吐率：83.33req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:29:52+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：115.90kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:30:28+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：116.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:30:30+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：116.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:32:36+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.013001s][吞吐率：76.92req/s] [内存消耗：182.10kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:16+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：186.71kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:16+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.js
+[ log ] www.k.com/wangming/js/vendors/slick/slick.js [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:16+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:16+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.008001s][吞吐率：124.98req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：186.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.002000s][吞吐率：499.98req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.js
+[ log ] www.k.com/wangming/js/vendors/slick/slick.js [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:42+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：186.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:42+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.002001s][吞吐率：499.74req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:42+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:42+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.js
+[ log ] www.k.com/wangming/js/vendors/slick/slick.js [运行时间：0.002001s][吞吐率：499.74req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:47+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：186.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:47+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.js
+[ log ] www.k.com/wangming/js/vendors/slick/slick.js [运行时间：0.004000s][吞吐率：249.99req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:47+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:43:47+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:44:10+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:44:12+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：186.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:44:12+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:44:12+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:44:12+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.js
+[ log ] www.k.com/wangming/js/vendors/slick/slick.js [运行时间：0.003000s][吞吐率：333.33req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:45:26+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：186.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:45:26+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:45:26+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:45:26+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.js
+[ log ] www.k.com/wangming/js/vendors/slick/slick.js [运行时间：0.004001s][吞吐率：249.94req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:46:44+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.020002s][吞吐率：50.00req/s] [内存消耗：186.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:46:44+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/slick/slick.css
+[ log ] www.k.com/wangming/js/vendors/slick/slick.css [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:46:44+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/js/vendors/jquery-1.9.1.min.js
+[ log ] www.k.com/wangming/js/vendors/jquery-1.9.1.min.js [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：115.84kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T01:47:24+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：186.71kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:48:37+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：186.88kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:48:48+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：186.80kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:49:08+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.024002s][吞吐率：41.66req/s] [内存消耗：186.89kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:52:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.028001s][吞吐率：35.71req/s] [内存消耗：186.84kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:52:56+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：186.84kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:53:11+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：186.86kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:53:23+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：186.86kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:53:31+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：186.86kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:53:44+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：186.87kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:53:50+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：186.87kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:53:54+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.024002s][吞吐率：41.66req/s] [内存消耗：186.88kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:54:01+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：186.88kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:54:05+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：186.88kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T01:55:51+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：186.87kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:07:30+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：187.30kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:10:26+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：187.31kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:11:00+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：187.31kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:11:02+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T02:11:05+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.002000s][吞吐率：500.04req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T02:11:07+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：187.32kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:15:31+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：187.33kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:15:32+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.008001s][吞吐率：124.98req/s] [内存消耗：115.83kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\error.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\cb5e100e5a9a3e7f6d1fd97512215282.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-18T02:16:01+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.021002s][吞吐率：47.61req/s] [内存消耗：183.61kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:16:04+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:16:09+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:16:10+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:16:11+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:17:07+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：184.04kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:17:10+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:17:11+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:17:38+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：183.61kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:17:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:17:43+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:38+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:39+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:40+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:41+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:41+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:43+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:43+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:44+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:45+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:46+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.015000s][吞吐率：66.67req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:47+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:47+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:48+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.007001s][吞吐率：142.83req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T02:30:49+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:02+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.021002s][吞吐率：47.61req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:03+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:03+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:05+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:05+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:06+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 5,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:07+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：183.60kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T05:50:07+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：187.35kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:20:18+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.136008s][吞吐率：7.35req/s] [内存消耗：196.01kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:27+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：196.05kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:30+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：184.01kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:31+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：184.98kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:32+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.036003s][吞吐率：27.78req/s] [内存消耗：187.77kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:36+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:39+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：184.98kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:36:42+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：196.06kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:38:38+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.009000s][吞吐率：111.11req/s] [内存消耗：187.79kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:38:44+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.044002s][吞吐率：22.73req/s] [内存消耗：184.03kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:38:48+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.046002s][吞吐率：21.74req/s] [内存消耗：184.98kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:39:20+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：184.01kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:39:25+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：184.97kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:45:42+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：196.05kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:45:46+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.010001s][吞吐率：99.99req/s] [内存消耗：187.77kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:45:48+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T09:45:52+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：184.97kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T10:10:49+00:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.k.com/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：196.05kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\home\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => NULL,
+  'partitions' => NULL,
+  'type' => NULL,
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => NULL,
+  'filtered' => NULL,
+  'extra' => 'no matching row in const table',
+) ]
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T10:10:55+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：184.01kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T10:10:56+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：184.97kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T10:10:57+00:00 ] 127.0.0.1 127.0.0.1 GET /wangming/
+[ log ] www.k.com/wangming/ [运行时间：0.007000s][吞吐率：142.85req/s] [内存消耗：187.77kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\wangming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_netname',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 13,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T10:10:58+00:00 ] 127.0.0.1 127.0.0.1 GET /touxiang/
+[ log ] www.k.com/touxiang/ [运行时间：0.012000s][吞吐率：83.33req/s] [内存消耗：184.02kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\touxiang\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_headpic',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 4,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-09-18T10:10:59+00:00 ] 127.0.0.1 127.0.0.1 GET /qianming/
+[ log ] www.k.com/qianming/ [运行时间：0.007001s][吞吐率：142.84req/s] [内存消耗：184.97kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\qianming\\index.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+  10 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_sign',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 6,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------

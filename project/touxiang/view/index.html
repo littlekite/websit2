@@ -1,29 +1,29 @@
 <!doctype html>
 <html>
 <head>
-    <title>小风筝_个性自定义</title>
-    {include file='home/view/resources'}
+    <title>个性头像_好看的QQ微信头像_男生女生头像大全_小风筝</title>
+    {include file='touxiang/view/resources'}
     <link rel="stylesheet" type="text/css" href="/js/vendors/slick/slick.css"/>
 </head>
 <body class="home">
-    {include file='home/view/header'}
+    {include file='touxiang/view/header'}
     <div class="main">
         <div class="content">
             <ul class="entry-points">
                 <li class="first-li">
-                    <a href="wangming/">
+                    <a href="/wangming/">
                         <span class="icon"><i class="fa fa-fw">&#xf031;</i></span>
                         <span class="title">网名</span>
                     </a>
                 </li>
                 <li>
-                    <a href="touxiang/">
+                    <a href="/touxiang/">
                         <span class="icon"><i class="fa fa-fw">&#xf007;</i></span>
                         <span class="title">头像</span>
                     </a>
                 </li>
                 <li class="last-li">
-                    <a href="qianming/">
+                    <a href="/qianming/">
                         <span class="icon"><i class="fa fa-fw">&#xf040;</i></span>
                         <span class="title">签名</span>
                     </a>
@@ -61,39 +61,16 @@
                 </li>
                 <div class="cleft"></div>
             </ul>
-            <div class="carousel">
-                <div class="stage">
-                    <div class="slide slide-1">
-                        {foreach($netname as $k=>$r)}
-                            <div style="width: 50%;font-size:18px ;font-weight: bold;text-align: center;float: left;margin-bottom: 25px;">
-                            {$r['name']}
-                            </div>
-                        {/foreach}
-                    </div>
-                    <div class="slide slide-2">
-                        {foreach($headpic as $k=>$r)}
-                            <div style="width: 50%;text-align: center;float: left;margin-bottom: 25px;">
-                            <img src="{$r['headpic']}" style="width: 140px;height: 140px;margin-left: auto;margin-right: auto;" />
-                            </div>
-                        {/foreach}
-                    </div>
-                    <div class="slide slide-3">
-                        {foreach($sign as $k=>$r)}
-                            <div style="font-size:18px ;font-weight: bold;text-align: left;margin-bottom: 25px;">
-                            {$r['sign']}
-                            </div>
-                        {/foreach}
-                    </div>
-                </div>
-                <a href="#" id="price-tag" style="opacity: 0">
-                    <span class="hand"><i class="fa fa-fw">&#xf0a4;</i></span>
-                    <span class="click">换一批</span>
-                    <span class="click-short">Click here</span>
-                </a>
+        </div>
+        <div style="width: 1080px;margin-left: auto;margin-right: auto;height: 600px;background: #fff;" >
+            {foreach($headpic as $k=>$r)}
+            <div style="width: 25%;text-align: center;float: left;margin-bottom: 25px;">
+            <img src="{$r['headpic']}" style="width: 140px;height: 140px;margin-left: auto;margin-right: auto;" />
             </div>
+            {/foreach}
         </div>
     </div>
-    {include file='home/view/footer'}
+    {include file='touxiang/view/footer'}
     <script src="/js/vendors/slick/slick.js"></script>
 </body>
 </html>
