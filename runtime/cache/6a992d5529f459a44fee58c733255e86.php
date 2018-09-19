@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 <head>
-    <title>个性网名_好听的QQ微信网名_男生女生网名大全_小风筝</title>
+    <title>小风筝_个性自定义</title>
     <meta charset="utf-8">
-<meta name="keywords" content="网名，微信网名，QQ网名，好听的网名，霸气的网名，伤感的网名，男生女生网名大全" />
-<meta name="description" content="网名频道收集了当下全网最新、最好听的网名，这里有各种风格的网名，好听的情侣网名、霸气的男生网名、经典的QQ网名，更能根据自己的喜好制作独一无二，个性出众的专属网名。" />
+<meta name="keywords" content="个性签名，好听的网名，好看的头像，微信封面，最新动态，免费设计" />
+<meta name="description" content="小风筝是一家专业设计个人资料的网站，这里可以找到或者定制个性的网名、头像、签名、封面、评论、留言、动态等等，让你在qq,微信等社交软件或者游戏中个性独特，光彩出众，风格或是有趣的、或是伤感的、或是霸气的、或是搞笑的，自定义自己的style！" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -26,25 +26,25 @@
     </div>
 </div>
 <div class="header">
-    <h1><a href="/">小风筝</a></h1>
+    <h1><a href="#">小风筝</a></h1>
 </div>
     <div class="main">
         <div class="content">
             <ul class="entry-points">
                 <li class="first-li">
-                    <a href="/wangming/">
-                        <span class="icon"><i class="fa fa-fw" style="color: #ED227B;">&#xf031;</i></span>
+                    <a href="wangming/">
+                        <span class="icon"><i class="fa fa-fw">&#xf031;</i></span>
                         <span class="title">网名</span>
                     </a>
                 </li>
                 <li>
-                    <a href="/touxiang/">
+                    <a href="touxiang/">
                         <span class="icon"><i class="fa fa-fw">&#xf007;</i></span>
                         <span class="title">头像</span>
                     </a>
                 </li>
                 <li class="last-li">
-                    <a href="/qianming/">
+                    <a href="qianming/">
                         <span class="icon"><i class="fa fa-fw">&#xf040;</i></span>
                         <span class="title">签名</span>
                     </a>
@@ -82,13 +82,36 @@
                 </li>
                 <div class="cleft"></div>
             </ul>
-        </div>
-        <div style="width: 1080px;margin-left: auto;margin-right: auto;height: 600px;background: #fff;" >
-            <?php foreach($netname as $k=>$r): ?>
-            <div style="height: 45px; width: 20%;font-size:18px ;font-weight: bold;text-align: center;float: left;margin-bottom: 25px;">
-            <?php echo $r['name']; ?>
+            <div class="carousel">
+                <div class="stage">
+                    <div class="slide slide-1">
+                        <?php foreach($netname as $k=>$r): ?>
+                            <div style="width: 50%;font-size:18px ;font-weight: bold;text-align: center;float: left;margin-bottom: 25px;">
+                            <?php echo $r['name']; ?>
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+                    <div class="slide slide-2">
+                        <?php foreach($headpic as $k=>$r): ?>
+                            <div style="width: 50%;text-align: center;float: left;margin-bottom: 25px;">
+                            <img src="<?php echo $r['headpic']; ?>" style="width: 140px;height: 140px;margin-left: auto;margin-right: auto;" />
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+                    <div class="slide slide-3">
+                        <?php foreach($sign as $k=>$r): ?>
+                            <div style="font-size:18px ;font-weight: bold;text-align: left;margin-bottom: 25px;">
+                            <?php echo $r['sign']; ?>
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+                <a href="#" id="price-tag" style="opacity: 0">
+                    <span class="hand"><i class="fa fa-fw">&#xf0a4;</i></span>
+                    <span class="click">换一批</span>
+                    <span class="click-short">Click here</span>
+                </a>
             </div>
-            <?php endforeach; ?>
         </div>
     </div>
     <div class="footer">
