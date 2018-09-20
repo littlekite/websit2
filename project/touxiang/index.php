@@ -2,11 +2,11 @@
 namespace project\touxiang;
 use core\Template;
 use core\Db;
-class index{
+class Index{
     public function index(){
         $temp = new Template();
         //读取数据库
-        $headpic = Db::query("SELECT id, headpic FROM k_headpic LIMIT 0, 50");
+        $headpic = Db::query("SELECT id, headpic FROM k_headpic ORDER BY id DESC LIMIT 0, 50");
         $temp->assign('headpic', $headpic);
         $temp->display('index');   
     }	   

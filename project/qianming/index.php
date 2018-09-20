@@ -2,11 +2,11 @@
 namespace project\qianming;
 use core\Template;
 use core\Db;
-class index{
+class Index{
     public function index(){
         $temp = new Template();
         //读取数据库
-        $sign = Db::query("SELECT id, sign FROM k_sign LIMIT 0, 50");
+        $sign = Db::query("SELECT id, sign FROM k_sign ORDER BY id DESC LIMIT 0, 50");
         $temp->assign('sign', $sign);
         $temp->display('index');   
     }	   

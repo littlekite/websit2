@@ -163,7 +163,7 @@ img {
 }
 .main .carousel {
   width: 1060px;
-  margin: 50px auto;
+  margin: 0px auto;
   position: relative;
 }
 .main .carousel .chevron {
@@ -367,57 +367,38 @@ img {
   font-size: 1.7em;
   padding-bottom: 35px;
 }
-.main .content .entry-points {
-  list-style: none;
-  padding: 0;
-  margin: 0 auto;
-  width: 1060px;
-  overflow: hidden;
-}
-.main .content .entry-points li {
-  float: left;
-  width: 254px;
-  text-align: center;
-  box-sizing: border-box;
-  padding-bottom: 10000px;
-  margin-bottom: -10000px;
-}
-.main .content .entry-points li.last-li, .main .content .entry-points li.first-li {
-  border: none;
-  width: 252px;
-}
-.main .content .entry-points li a {
+.navi a {
   display: block;
   text-decoration: none;
   color: #666666;
   padding: 5px 0;
 }
-.main .content .entry-points li a span {
+.navi a span {
   display: block;
-  padding: 0 20px 6px 20px;
+  padding: 0 10px 6px 10px;
 }
-.main .content .entry-points li a span.icon {
+.navi a span.icon {
   font-size: 3.0em;
   padding-bottom: 3px;
 }
-.main .content .entry-points li a span.icon i {
+.navi a span.icon i {
   color: #2aa9e0;
   -webkit-transition: all 0.25s;
   -moz-transition: all 0.25s;
   -o-transition: all 0.25s;
   transition: all 0.25s;
 }
-.main .content .entry-points li a span.title {
+.navi a span.title {
   font-size: 1.4em;
   color: #2aa9e0;
 }
-.main .content .entry-points li a span.intro {
+.navi a span.intro {
   font-size: 0.9em;
 }
-.main .content .entry-points li a:hover {
+.navi a:hover {
   color: #231f20;
 }
-.main .content .entry-points li a:hover span.icon i {
+.navi a:hover span.icon i {
   color: #2598c9;
   -webkit-transition: all 0.25s;
   -moz-transition: all 0.25s;

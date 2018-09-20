@@ -24,5 +24,5 @@ return [
     //日志文件大小
     'file_size'=> 10240,
     //模块列表
-    'module_list' => ['home','admin','wangming','touxiang','qianming']    
+    'module_list' => ['home','admin','others','wangming','touxiang','qianming']    
 ];

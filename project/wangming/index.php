@@ -2,11 +2,11 @@
 namespace project\wangming;
 use core\Template;
 use core\Db;
-class index{
+class Index{
     public function index(){
         $temp = new Template();
         //读取数据库
-        $netname = Db::query("SELECT id, name FROM k_netname LIMIT 0, 50");
+        $netname = Db::query("SELECT id, name FROM k_netname ORDER BY id DESC LIMIT 0, 50");
         $temp->assign('netname', $netname);
         $temp->display('index');   
     }	   

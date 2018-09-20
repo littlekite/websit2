@@ -2,75 +2,40 @@
 <html>
 <head>
     <title>个性头像_好看的微信头像_qq头像_男生女生头像大全_小风筝</title>
-    {include file='touxiang/view/resources'}
-    <link rel="stylesheet" type="text/css" href="/js/vendors/slick/slick.css"/>
+    <meta charset="utf-8">
+    <meta name="keywords" content="头像，微信头像，qq头像，好看的情侣头像，可爱的动漫头像，男生女生头像大全" />
+    <meta name="description" content="头像频道收集了当下全网最新、最好看的头像，这里有各种风格的头像，好看的情侣头像、可爱的动漫头像、经典的qq头像，更能根据自己的喜好制作独一无二，个性出众的专属头像。" />
+    {include file='public/resources'}
 </head>
 <body class="home">
-    {include file='touxiang/view/header'}
-    <div class="main">
+    {include file='public/header'}
         <div class="content">
-            <ul class="entry-points">
-                <li class="first-li">
-                    <a href="/wangming/">
-                        <span class="icon"><i class="fa fa-fw">&#xf031;</i></span>
-                        <span class="title">网名</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/touxiang/">
-                        <span class="icon"><i class="fa fa-fw" style="color: #D9DF25;">&#xf007;</i></span>
-                        <span class="title">头像</span>
-                    </a>
-                </li>
-                <li class="last-li">
-                    <a href="/qianming/">
-                        <span class="icon"><i class="fa fa-fw">&#xf040;</i></span>
-                        <span class="title">签名</span>
-                    </a>
-                </li>
-                <li class="last-li">
-                    <a href="#">
-                        <span class="icon"><i class="fa fa-fw">&#xf03e;</i></span>
-                        <span class="title">封面</span>
-                    </a>
-                </li>
-                <div class="cleft"></div>
-                <li class="last-li">
-                    <a href="#">
-                        <span class="icon"><i class="fa fa-fw">&#xf028;</i></span>
-                        <span class="title">动态</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fa fa-fw">&#xf075;</i></span>
-                        <span class="title">评论</span>
-                    </a>
-                </li>
-                <li class="last-li">
-                    <a href="#">
-                        <span class="icon"><i class="fa fa-fw">&#xf002;</i></span>
-                        <span class="title">发现</span>
-                    </a>
-                </li>
-                <li class="last-li">
-                    <a href="#">
-                        <span class="icon"><i class="fa fa-fw">&#xf085;</i></span>
-                        <span class="title">自定义</span>
-                    </a>
-                </li>
-                <div class="cleft"></div>
-            </ul>
-        </div>
-        <div style="width: 1080px;margin-left: auto;margin-right: auto;height: 600px;background: #fff;" >
-            {foreach($headpic as $k=>$r)}
-            <div style="width: 25%;text-align: center;float: left;margin-bottom: 25px;">
-            <img src="{$r['headpic']}" style="width: 140px;height: 140px;margin-left: auto;margin-right: auto;" />
-            </div>
-            {/foreach}
+           <div class="layui-row layui-col-space15">
+                <div class="layui-col-md12">
+                  <div class="layui-card">
+                    <div class="layui-card-header">头像</div>
+                    <div class="layui-card-body">
+                        {foreach($headpic as $k=>$r)}
+                            {if ($k%4==0)}
+                            <div class="layui-row layui-col-space10" style="margin-bottom: 15px;">
+                            <div class="layui-col-xs6 layui-col-sm4 layui-col-md3">
+                            <img src="{$r['headpic']}" style="width: 150px;height: 150px;margin-left: auto;margin-right: auto;" />
+                            </div>
+                            {else}
+                            <div class="layui-col-xs6 layui-col-sm4 layui-col-md3">
+                            <img src="{$r['headpic']}" style="width: 150px;height: 150px;margin-left: auto;margin-right: auto;" />
+                            </div>
+                            {/if}
+                            {if ($k%4==3)}
+                            </div>
+                            {/if}
+                        {/foreach}
+                    </div>
+                  </div>
+                </div>
+              </div>
         </div>
     </div>
-    {include file='touxiang/view/footer'}
-    <script src="/js/vendors/slick/slick.js"></script>
+    {include file='public/footer'}
 </body>
 </html>

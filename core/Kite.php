@@ -14,16 +14,16 @@ class Kite{
                 define('VIEW_URL', $view_url);
             }
             if (count($route) == 2 && empty($route[1])) { //默认home模块
-                $controller = 'project\\'.$route[0].'\\index';
+                $controller = 'project\\'.$route[0].'\\Index';
                 $action = 'index';
             } elseif (count($route) == 2 && !empty($route[1])) { //默认home模块
-                $controller = 'project\\'.$route[0].'\\'.$route[1];
-                $action = $route[1]; 
+                $controller = 'project\\'.$route[0].'\\'.ucfirst($route[1]);
+                $action = $route[1];
             } elseif (count($route) == 3 && !empty($route[1]) && empty($route[2])){
-                $controller = 'project\\'.$route[0].'\\'. $route[1].'\\index'; 
+                $controller = 'project\\'.$route[0].'\\'. $route[1].'\\Index'; 
                 $action = 'index';
             } elseif (count($route) == 3 && !empty($route[1]) && !empty($route[2])){
-                $controller = 'project\\'.$route[0].'\\'. $route[1].'\\'.$route[2]; 
+                $controller = 'project\\'.$route[0].'\\'. $route[1].'\\'.ucfirst($route[2]); 
                 $action = $route[2];
             } else {
                $controller = 'project\home\error'; 
