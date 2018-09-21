@@ -1,0 +1,208 @@
+[ 2018-09-21T16:22:17+08:00 ] 172.18.229.132 115.120.76.34 GET /index.php/manage/add
+[ log ] www.xiaofengzheng.com/index.php/manage/add [运行时间：0.000729s][吞吐率：1,371.58req/s] [内存消耗：29.67kb] [文件加载：10]
+array (
+  0 => '/var/www/html/index.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Kite.php',
+  4 => '/var/www/html/core/Route.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/manage/Add.php',
+  7 => '/var/www/html/core/Template.php',
+  8 => '/var/www/html/runtime/cache/6a992d5529f459a44fee58c733255e86.php',
+  9 => '/var/www/html/core/Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T16:23:10+08:00 ] 172.18.229.132 175.191.202.99 GET /manage/add
+[ log ] www.xiaofengzheng.com/manage/add [运行时间：0.000505s][吞吐率：1,980.31req/s] [内存消耗：36.05kb] [文件加载：10]
+array (
+  0 => '/var/www/html/index.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Kite.php',
+  4 => '/var/www/html/core/Route.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/manage/Add.php',
+  7 => '/var/www/html/core/Template.php',
+  8 => '/var/www/html/runtime/cache/6a992d5529f459a44fee58c733255e86.php',
+  9 => '/var/www/html/core/Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T16:23:13+08:00 ] 172.18.229.132 175.191.202.99 GET /manage/add
+[ log ] www.xiaofengzheng.com/manage/add [运行时间：0.000568s][吞吐率：1,760.83req/s] [内存消耗：41.79kb] [文件加载：10]
+array (
+  0 => '/var/www/html/index.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Kite.php',
+  4 => '/var/www/html/core/Route.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/manage/Add.php',
+  7 => '/var/www/html/core/Template.php',
+  8 => '/var/www/html/runtime/cache/6a992d5529f459a44fee58c733255e86.php',
+  9 => '/var/www/html/core/Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T16:23:41+08:00 ] 172.18.229.132 115.120.76.34 GET /index.php/manage/add
+[ log ] www.xiaofengzheng.com/index.php/manage/add [运行时间：0.000555s][吞吐率：1,802.45req/s] [内存消耗：29.67kb] [文件加载：10]
+array (
+  0 => '/var/www/html/index.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Kite.php',
+  4 => '/var/www/html/core/Route.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/manage/Add.php',
+  7 => '/var/www/html/core/Template.php',
+  8 => '/var/www/html/runtime/cache/6a992d5529f459a44fee58c733255e86.php',
+  9 => '/var/www/html/core/Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T16:23:48+08:00 ] 172.18.229.132 115.120.76.34 GET /index.php/manage/add
+[ log ] www.xiaofengzheng.com/index.php/manage/add [运行时间：0.000471s][吞吐率：2,122.62req/s] [内存消耗：29.91kb] [文件加载：10]
+array (
+  0 => '/var/www/html/index.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Kite.php',
+  4 => '/var/www/html/core/Route.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/manage/Add.php',
+  7 => '/var/www/html/core/Template.php',
+  8 => '/var/www/html/runtime/cache/6a992d5529f459a44fee58c733255e86.php',
+  9 => '/var/www/html/core/Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T16:24:12+08:00 ] 172.18.229.132 115.120.76.34 GET /index.php/manage/add
+[ log ] www.xiaofengzheng.com/index.php/manage/add [运行时间：0.000531s][吞吐率：1,883.39req/s] [内存消耗：29.91kb] [文件加载：10]
+array (
+  0 => '/var/www/html/index.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Kite.php',
+  4 => '/var/www/html/core/Route.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/manage/Add.php',
+  7 => '/var/www/html/core/Template.php',
+  8 => '/var/www/html/runtime/cache/6a992d5529f459a44fee58c733255e86.php',
+  9 => '/var/www/html/core/Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:12:02+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.023002s][吞吐率：43.47req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:02+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:05+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.004001s][吞吐率：249.94req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:22+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:25+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.004000s][吞吐率：250.00req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:51+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.005000s][吞吐率：200.00req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:55+00:00 ] 127.0.0.1 127.0.0.1 GET /manage/add?sign=322222222
+[ log ] www.k.com/manage/add?sign=322222222 [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：120.06kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\index.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Kite.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Route.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\manage\\Add.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Template.php',
+  8 => 'D:\\wamp\\www\\websit2\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+
+---------------------------------------------------------------

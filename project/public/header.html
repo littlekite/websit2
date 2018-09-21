@@ -1,11 +1,7 @@
 <div class="status-bar">
     <div class="content">
         <div class="order">
-            <span class="title">版本号-0.1</span>
-                <span class="percentage">
-                    <span class="bar" style="width: 7%"></span>
-                </span>
-            <span>7%</span>
+            <i class="layui-icon layui-icon-face-smile"></i> <span class="title">欢迎来到小风筝！</span>
         </div>
         <div class="cboth"></div>
     </div>
@@ -20,26 +16,26 @@
                  <div class="layui-row" style="text-align: center;">
                         <div class="layui-col-xs3 layui-col-sm3 layui-col-md3">
                             <a href="/">
-                                <span class="icon"><i class="fa fa-fw">&#xf015;</i></span>
-                                <span class="title">首页</span>
+                                <span class="icon"><i class="fa fa-fw" {if (MOUDEL_NAME== 'home')}style="color:#ED227B"{/if} >&#xf015;</i></span>
+                                <span class="title" {if (MOUDEL_NAME== 'home')}style="color:#ED227B"{/if}>首页</span>
                             </a>
                         </div>
                         <div class="layui-col-xs3 layui-col-sm3 layui-col-md3">
                             <a href="/wangming/">
-                                <span class="icon"><i class="fa fa-fw">&#xf031;</i></span>
-                                <span class="title">网名</span>
+                                <span class="icon"><i class="fa fa-fw" {if (MOUDEL_NAME== 'wangming')}style="color:#ED227B"{/if}>&#xf031;</i></span>
+                                <span class="title" {if (MOUDEL_NAME== 'wangming')}style="color:#ED227B"{/if}>网名</span>
                             </a>
                         </div>
                         <div class="layui-col-xs3 layui-col-sm3 layui-col-md3">
                             <a href="/touxiang/">
-                                <span class="icon"><i class="fa fa-fw">&#xf007;</i></span>
-                                <span class="title">头像</span>
+                                <span class="icon"><i class="fa fa-fw" {if (MOUDEL_NAME== 'touxiang')}style="color:#ED227B"{/if}>&#xf007;</i></span>
+                                <span class="title" {if (MOUDEL_NAME== 'touxiang')}style="color:#ED227B"{/if}>头像</span>
                             </a>
                         </div>
                         <div class="layui-col-xs3 layui-col-sm3 layui-col-md3">
                             <a href="/qianming/">
-                                <span class="icon"><i class="fa fa-fw">&#xf040;</i></span>
-                                <span class="title">签名</span>
+                                <span class="icon"><i class="fa fa-fw" {if (MOUDEL_NAME== 'qianming')}style="color:#ED227B"{/if}>&#xf040;</i></span>
+                                <span class="title" {if (MOUDEL_NAME== 'qianming')}style="color:#ED227B"{/if}>签名</span>
                             </a>
                         </div>
                  </div>

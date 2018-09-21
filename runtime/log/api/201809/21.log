@@ -1,0 +1,752 @@
+[ 2018-09-21T16:23:12+08:00 ] 172.18.229.132 175.191.202.99 POST /api.php?m=100
+[ log ] www.xiaofengzheng.com/api.php?m=100 [运行时间：0.001406s][吞吐率：711.26req/s] [内存消耗：27.94kb] [文件加载：9]
+array (
+  0 => '/var/www/html/api.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Input.php',
+  4 => '/var/www/html/core/Db.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/api/static/Method.php',
+  7 => '/var/www/html/project/api/Netname.php',
+  8 => '/var/www/html/core/Log.php',
+)
+[ return ] status=1 info=添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T16:23:47+08:00 ] 172.18.229.132 115.120.76.34 POST /api.php?m=100
+[ log ] www.xiaofengzheng.com/api.php?m=100 [运行时间：0.001328s][吞吐率：753.02req/s] [内存消耗：27.71kb] [文件加载：9]
+array (
+  0 => '/var/www/html/api.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Input.php',
+  4 => '/var/www/html/core/Db.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/api/static/Method.php',
+  7 => '/var/www/html/project/api/Netname.php',
+  8 => '/var/www/html/core/Log.php',
+)
+[ return ] status=1 info=添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T16:24:11+08:00 ] 172.18.229.132 115.120.76.34 POST /api.php?m=120
+[ log ] www.xiaofengzheng.com/api.php?m=120 [运行时间：0.001848s][吞吐率：541.13req/s] [内存消耗：28.76kb] [文件加载：9]
+array (
+  0 => '/var/www/html/api.php',
+  1 => '/var/www/html/core/Autoload.php',
+  2 => '/var/www/html/core/Common.php',
+  3 => '/var/www/html/core/Input.php',
+  4 => '/var/www/html/core/Db.php',
+  5 => '/var/www/html/Config.php',
+  6 => '/var/www/html/project/api/static/Method.php',
+  7 => '/var/www/html/project/api/Sign.php',
+  8 => '/var/www/html/core/Log.php',
+)
+[ return ] status=1 info=添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T08:47:58+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?4234324
+[ log ] www.k.com/api.php?4234324 [运行时间：0.117007s][吞吐率：8.55req/s] [内存消耗：97.27kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T08:48:41+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?4234324
+[ log ] www.k.com/api.php?4234324 [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：97.27kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T08:49:06+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?4234324
+[ log ] www.k.com/api.php?4234324 [运行时间：0.005001s][吞吐率：199.96req/s] [内存消耗：97.27kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T08:51:16+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?4234324
+[ log ] www.k.com/api.php?4234324 [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：97.27kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T08:51:42+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：102.09kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T08:57:17+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：102.09kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T08:57:39+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：102.43kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T08:59:23+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：102.73kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:00:34+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：102.73kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:00:44+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：102.73kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:00:44+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.006000s][吞吐率：166.67req/s] [内存消耗：102.73kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:00:58+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.009001s][吞吐率：111.10req/s] [内存消耗：102.41kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:01:06+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：102.09kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:01:24+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.013001s][吞吐率：76.92req/s] [内存消耗：102.41kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:02:01+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.012001s][吞吐率：83.33req/s] [内存消耗：102.42kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:02:30+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：101.59kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:02:34+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：101.59kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:03:55+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：102.05kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status= info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:05:08+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：102.05kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=,info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:06:00+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：102.09kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=,info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:06:38+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.007001s][吞吐率：142.83req/s] [内存消耗：101.44kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=,info=
+
+---------------------------------------------------------------
+[ 2018-09-21T09:07:22+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.024002s][吞吐率：41.66req/s] [内存消耗：101.44kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:,info:
+
+---------------------------------------------------------------
+[ 2018-09-21T09:07:24+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：101.44kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:,info:
+
+---------------------------------------------------------------
+[ 2018-09-21T09:07:52+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.011001s][吞吐率：90.90req/s] [内存消耗：101.73kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:,info:
+
+---------------------------------------------------------------
+[ 2018-09-21T09:08:20+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：102.05kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:,info:
+
+---------------------------------------------------------------
+[ 2018-09-21T09:09:26+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：102.08kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:,info:
+
+---------------------------------------------------------------
+[ 2018-09-21T09:10:26+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1
+[ log ] www.k.com/api.php?m=1 [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：102.08kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Account.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:,info:
+
+---------------------------------------------------------------
+[ 2018-09-21T09:10:46+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=100
+[ log ] www.k.com/api.php?m=100 [运行时间：0.011001s][吞吐率：90.90req/s] [内存消耗：101.21kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Netname.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:2,info:参数不全
+
+---------------------------------------------------------------
+[ 2018-09-21T09:12:05+00:00 ] 127.0.0.1 127.0.0.1 POST /api.php?m=100
+[ log ] www.k.com/api.php?m=100 [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：100.80kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Netname.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:1,info:添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T09:12:25+00:00 ] 127.0.0.1 127.0.0.1 POST /api.php?m=100
+[ log ] www.k.com/api.php?m=100 [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：100.86kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Netname.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status:1,info:添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:04+00:00 ] 127.0.0.1 127.0.0.1 POST /api.php?m=100
+[ log ] www.k.com/api.php?m=100 [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：100.84kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Netname.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=1 info=添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:24+00:00 ] 127.0.0.1 127.0.0.1 POST /api.php?m=100
+[ log ] www.k.com/api.php?m=100 [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：100.80kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Netname.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=1 info=添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T09:13:54+00:00 ] 127.0.0.1 127.0.0.1 POST /api.php?m=100
+[ log ] www.k.com/api.php?m=100 [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：100.83kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\project\\api\\Netname.php',
+  8 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=1 info=添加成功
+
+---------------------------------------------------------------
+[ 2018-09-21T09:14:12+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1234
+[ log ] www.k.com/api.php?m=1234 [运行时间：0.007000s][吞吐率：142.86req/s] [内存消耗：97.23kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:14:28+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1234
+[ log ] www.k.com/api.php?m=1234 [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：97.23kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:15:32+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1234
+[ log ] www.k.com/api.php?m=1234 [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：97.23kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:15:36+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?m=1234
+[ log ] www.k.com/api.php?m=1234 [运行时间：0.005001s][吞吐率：199.97req/s] [内存消耗：97.23kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:15:40+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：97.33kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:17:04+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.010000s][吞吐率：100.00req/s] [内存消耗：97.33kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:17:21+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：97.33kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:18:10+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：97.33kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:18:36+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：96.52kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:19:05+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.006001s][吞吐率：166.64req/s] [内存消耗：96.83kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:36:20+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：97.33kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------
+[ 2018-09-21T09:37:59+00:00 ] 127.0.0.1 127.0.0.1 GET /api.php?33333333333342
+[ log ] www.k.com/api.php?33333333333342 [运行时间：0.030001s][吞吐率：33.33req/s] [内存消耗：97.33kb] [文件加载：8]
+array (
+  0 => 'D:\\wamp\\www\\websit2\\api.php',
+  1 => 'D:\\wamp\\www\\websit2\\core\\Autoload.php',
+  2 => 'D:\\wamp\\www\\websit2\\core\\Common.php',
+  3 => 'D:\\wamp\\www\\websit2\\core\\Input.php',
+  4 => 'D:\\wamp\\www\\websit2\\core\\Db.php',
+  5 => 'D:\\wamp\\www\\websit2\\Config.php',
+  6 => 'D:\\wamp\\www\\websit2\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp\\www\\websit2\\core\\Log.php',
+)
+[ return ] status=2 info=请求失败，无权限
+
+---------------------------------------------------------------

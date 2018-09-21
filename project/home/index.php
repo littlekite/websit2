@@ -2,6 +2,7 @@
 namespace project\home;
 use core\Template;
 use core\Db;
+use core\tpcl\ComFun\ComFun;
 class Index{
     public function index(){
         $temp = new Template();
@@ -14,7 +15,7 @@ class Index{
         $temp->assign('headpic', $headpic);
         //$temp->assign('cover', $cover);
         $temp->assign('sign', $sign);
-        $temp->display('index');   
+        $temp->display('index');
     }	   
 }
 /*
